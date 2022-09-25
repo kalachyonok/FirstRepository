@@ -2,3 +2,4 @@ Hello word!
 12345
 Good bye!
 Line from user1
+some new feature
